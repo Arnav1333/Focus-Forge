@@ -36,6 +36,9 @@
 .dark #about{
     color:#000;
 }
+.dark .footer{
+    color:#222;
+}
 body{
     background-color: #FFFFFF;
     height: 100vh;
