@@ -30,8 +30,11 @@
 
 .dark .content-left h1,
 .dark .nav-list li a {
-    color: #ffffff; /* Change the text color for h1 and nav in dark mode */
-    /* Add any additional styles specific to h1 and nav in dark mode */
+    color: #ffffff; 
+    
+}
+.dark #about{
+    color:#000;
 }
 body{
     background-color: #FFFFFF;
